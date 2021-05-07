@@ -29,3 +29,25 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=songyaolun&show_icons=true&locale=en&layout=compact" alt="songyaolun" /></p>
 
+### :sparkles: My Followers
+
+<!--START_SECTION:top-followers-->
+
+<!--END_SECTION:top-followers-->
+
+Github：songyaolun
+
+- 📫 How to reach me:
+    - :octocat: [Github@songyaolun](https://github.com/songyaolun)
+
+
+| :pencil2: | :video_game: | :book: |:clapper:  |
+| --- | --- | --- | --- |
+| [Blogs](https://songyaolun.github.io/) |[Games](https://songyaolun.github.io/games/)  | [Books](https://songyaolun.github.io/books/) | [Movies](https://songyaolun.github.io/movies/) |
+
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
