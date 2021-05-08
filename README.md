@@ -31,7 +31,11 @@
 
 ### :sparkles: My Followers
 
-<!--START_SECTION:top-followers--><!--END_SECTION:top-followers-->
+<!--START_SECTION:top-followers-->
+<table>
+  </tr>
+</table>
+<!--END_SECTION:top-followers-->
 
 Github：songyaolun
 
