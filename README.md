@@ -47,7 +47,12 @@ Github：songyaolun
 | --- | --- | --- | --- |
 | [Blogs](https://songyaolun.github.io/) |[Games](https://songyaolun.github.io/games/)  | [Books](https://songyaolun.github.io/books/) | [Movies](https://songyaolun.github.io/movies/) |
 
+---
 
 ### :zap: Recent Activity
 
-<!--START_SECTION:activity--><!--END_SECTION:activity-->
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
