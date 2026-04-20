@@ -1,23 +1,40 @@
-<h1 align="center">Hi 👋, I'm songyaolun</h1>
-<h3 align="center">A Back-End Developer from China</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+songyaolun;Back-End+Developer+from+China;Java+%7C+Go+%7C+Python+%7C+C%2B%2B" alt="Typing SVG" /></a>
+</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=songyaolun&label=Profile%20views&color=0e75b6&style=flat" alt="songyaolun" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=songyaolun&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+## 🧑‍💻 About Me
+
+- 🔭 A Back-End Developer passionate about **distributed systems** and **high-performance services**
+- 🌱 Currently exploring **system design**, **message queues** and **cloud-native** technologies
+- 📝 I write articles on [my blog](https://songyaolun.github.io/)
+- 📫 Reach me at **GitHub** — always open for collaboration
 
 ---
 
-### 🛠 Languages and Tools
+## 🛠 Tech Stack
 
-<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+
+**Frameworks & Middleware**
+
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
 
 ---
 
-### 📫 How to Reach Me
+## 🔗 Find Me Around the Web
 
-| ✏️ Blogs | 🎮 Games | 📖 Books | 🎬 Movies |
+| ✏️ [Blog](https://songyaolun.github.io/) | 🎮 [Games](https://songyaolun.github.io/games/) | 📖 [Books](https://songyaolun.github.io/books/) | 🎬 [Movies](https://songyaolun.github.io/movies/) |
 | :---: | :---: | :---: | :---: |
-| [Blogs](https://songyaolun.github.io/) | [Games](https://songyaolun.github.io/games/) | [Books](https://songyaolun.github.io/books/) | [Movies](https://songyaolun.github.io/movies/) |
-
-- 🐙 GitHub: [songyaolun](https://github.com/songyaolun)
 
 ---
 
