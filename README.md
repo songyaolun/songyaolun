@@ -47,5 +47,5 @@
 
 ## 📬 Contact Me
 
-- 🔵 **知乎**：[ba-mo-jue](https://www.zhihu.com/people/ba-mo-jue)
+- 🔵 **知乎**：[Yolen的奇思妙想](https://www.zhihu.com/people/ba-mo-jue)
 - 💬 **微信公众号**：**Yolen的奇思妙想**
