@@ -2,25 +2,14 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+songyaolun;Back-End+Developer+from+China;Java+%7C+Go+%7C+Python+%7C+C%2B%2B;LLM+%7C+Vibe+Coding+Enthusiast" alt="Typing SVG" /></a>
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=songyaolun&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 ## 🧑‍💻 About Me
 
 - 🔭 A Back-End Developer passionate about **distributed systems** and **high-performance services**
-- 🌱 Currently exploring **system design**, **message queues** and **cloud-native** technologies
-- 🤖 Keeping up with **AI frontiers** — hands-on with **LLM application development** and **Vibe Coding**
-- 📝 I write articles on [my blog](https://songyaolun.github.io/)
-
----
-
-## 🤖 AI & LLM
-
-- 关注大语言模型（LLM）前沿动态，持续跟进 GPT、Claude、Llama 等主流模型演进
-- 实践 **Vibe Coding** 工作流 —— 利用 AI 辅助编程提升开发效率与代码质量
-- 探索 **RAG**、**Agent**、**Prompt Engineering** 等 LLM 应用范式
-- 对 AI Infra、模型部署与推理优化保持关注
+- 🌱 Currently exploring **system design**, **message queues**, and **cloud-native** technologies
+- 🤖 Tracking the cutting edge of **LLMs** (GPT, Claude, Llama), hands-on with **RAG**, **Agent**, **Prompt Engineering** and **Vibe Coding**
+- 🔧 Keeping an eye on **AI Infra**, model deployment, and inference optimization
+- 🏠 My personal homepage: [songyaolun.github.io](https://songyaolun.github.io/)
 
 ---
 
@@ -42,10 +31,17 @@
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=songyaolun&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ---
 
 ## 📬 Contact Me
 
-- 🔵 **知乎**：[Yolen的奇思妙想](https://www.zhihu.com/people/ba-mo-jue)
-- 💬 **微信公众号**：**Yolen的奇思妙想**
+- 🔵 **Zhihu**: [Yolen's Whimsical Ideas](https://www.zhihu.com/people/ba-mo-jue)
+- 💬 **WeChat Official Account**: **Yolen's Whimsical Ideas**
