@@ -42,12 +42,6 @@
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
-
-## 🔗 Find Me Around the Web
-
-| ✏️ [Blog](https://songyaolun.github.io/) | 🎮 [Games](https://songyaolun.github.io/games/) | 📖 [Books](https://songyaolun.github.io/books/) | 🎬 [Movies](https://songyaolun.github.io/movies/) |
-| :---: | :---: | :---: | :---: |
 
 ---
 
