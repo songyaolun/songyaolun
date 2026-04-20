@@ -43,5 +43,5 @@
 
 ## 📬 Contact Me
 
-- 🔵 **Zhihu**: [Yolen's Whimsical Ideas](https://www.zhihu.com/people/ba-mo-jue)
-- 💬 **WeChat Official Account**: **Yolen's Whimsical Ideas**
+- 🔵 **Zhihu**: [Yolen的奇思妙想](https://www.zhihu.com/people/ba-mo-jue)
+- 💬 **WeChat Official Account**: **Yolen的奇思妙想**
